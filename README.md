@@ -24,4 +24,4 @@ Here are some of the technologies and tools I work with:
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
-Made with ❤️ by Gilbud(https://github.com/Gilang-Budi)
+Made with ❤️ by Gilbud(https://github.com/GilangBudiP)
